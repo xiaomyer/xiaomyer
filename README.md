@@ -13,6 +13,7 @@ My name is Myer (or myerfire), and I am a 14 year old learning programmer and de
 
 ### 📫 Contact:
 [![widget](https://inv.wtf/widget/myerfire)](https://myer.wtf/discord)
+
 `myer#0001` on Discord
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myerfire&count_private=true&theme=tokyonight&show_icons=true)
