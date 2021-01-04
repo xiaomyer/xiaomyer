@@ -1,3 +1,4 @@
+<img align="right" alt="Avatar" width="200px" src="https://static.myer.wtf/myer.png" />
 ### Hi there 👋
 My name is Myer (or myerfire), and I am a 14 year old learning programmer and developer. I have mainly been focusing on Python development, and consider Python to be my best programming language. I live in America, but come from Taiwan, a country in Asia.
 
@@ -11,3 +12,5 @@ My name is Myer (or myerfire), and I am a 14 year old learning programmer and de
 
 ### 📫 Contact:
 You could join my [Discord server](https://myer.wtf/discord) or you could add me on Discord `myer#0001`.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myerfire&count_private=true&theme=tokyonight&show_icons=true)
