@@ -6,7 +6,7 @@ My name is Myer (or myerfire), and I am a 14 year old learning programmer and de
 - [hypixelaPY](https://github.com/myerfire/hypixelaPY): hypixelaPY is a Python wrapper on the Hypixel API, used in production by the Myaer bot.
 
 ### 🔗 Socials:
-= [YouTube](https://myer.wtf/youtube)
+- [YouTube](https://myer.wtf/youtube)
 - [Twitter](https://myer.wtf/twitter)
 
 ### 📫 Contact:
