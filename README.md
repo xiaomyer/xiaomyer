@@ -6,9 +6,11 @@ My name is Myer (or myerfire), and I am a 14 year old learning programmer and de
 ### ⌨ Projects:
 - [Myaer](https://github.com/myerfire/Myaer): Myaer is a Discord bot mainly to show Hypixel stats from the Hypixel API.
 - [hypixelaPY](https://github.com/myerfire/hypixelaPY): hypixelaPY is a Python wrapper on the Hypixel API, used in production by the Myaer bot.
+- [lastfmpy](https://github.com/myerfire/lastfmpy): lastfmpy is a Python wrapper on the Last.FM API, also used in production by the Myaer bot.
 
 ### 🔗 Socials:
 - [YouTube](https://myer.wtf/youtube)
+- [Twitch](https://myer.wtf/twitch)
 - [Twitter](https://myer.wtf/twitter)
 
 ### 📫 Contact:
