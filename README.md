@@ -3,7 +3,7 @@
 ### hi there, myer here👋
 i'm a 14 year old learning programmer and developer
 
-i mostly code in Python and have dabbled in a bit of Java
+i mostly code in python and have dabbled in a bit of java
 
 ### ⌨ projects:
 - [Myaer](https://github.com/myerfire/Myaer): Myaer is a discord bot mainly to show hypixel stats from the hypixel api
