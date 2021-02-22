@@ -3,12 +3,12 @@
 ### hi there, myer here👋
 i'm a 14 year old learning programmer and developer
 
-i mostly code in Python and have dabbled in a bit of Java.
+i mostly code in Python and have dabbled in a bit of Java
 
 ### ⌨ projects:
-- [Myaer](https://github.com/myerfire/Myaer): Myaer is a Discord bot mainly to show Hypixel stats from the Hypixel API.
-- [hypixelaPY](https://github.com/myerfire/hypixelaPY): hypixelaPY is a Python wrapper on the Hypixel API, used in production by the Myaer bot.
-- [lastfmpy](https://github.com/myerfire/lastfmpy): lastfmpy is a Python wrapper on the Last.FM API, also used in production by the Myaer bot.
+- [Myaer](https://github.com/myerfire/Myaer): Myaer is a discord bot mainly to show hypixel stats from the hypixel api
+- [hypixelaPY](https://github.com/myerfire/hypixelaPY): hypixelaPY is a python wrapper on the hypixel api, used in production by the myaer bot
+- [lastfmpy](https://github.com/myerfire/lastfmpy): lastfmpy is a python wrapper on the last.fm api, also used in production by the myaer bot
 
 ### 🔗 socials:
 - [youtube](https://myer.wtf/youtube)
