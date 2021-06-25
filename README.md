@@ -1,7 +1,7 @@
 <img align="right" alt="Avatar" width="200px" src="https://static.myer.wtf/myer.png" />
 
 ### hi there, myer here👋
-i'm a 14 year old learning programmer and developer
+i'm a 15 year old learning programmer and developer
 
 i mostly code in python and have dabbled in a bit of java
 
