@@ -1,4 +1,4 @@
-<img align="right" alt="Avatar" width="200px" src="https://static.myer.wtf/myer.png" />
+<img align="right" alt="Avatar" width="200px" src="https://avatars.githubusercontent.com/u/19848162?s=400&u=c343fe0f284ce61534a69fb98c3dc5d3fda07d1c&v=4" />
 
 ### hi there, myer here👋
 i'm a 15 year old learning programmer and developer
