@@ -18,4 +18,4 @@ i mostly code in python and javascript but have also dabbled in a bit of java
 
 `myer#0001` on Discord
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myerfire&count_private=true&theme=tokyonight&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myerrr&count_private=true&theme=tokyonight&show_icons=true)
