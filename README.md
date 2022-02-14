@@ -14,8 +14,6 @@ i mostly code in python and javascript but have also dabbled in a bit of java
 - [twitter](https://myer.wtf/twitter)
 
 ### 📫 contact:
-[![widget](https://inv.wtf/widget/myerfire)](https://myer.wtf/discord)
-
 `myer#0001` on Discord
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myerrr&count_private=true&theme=tokyonight&show_icons=true)
