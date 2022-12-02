@@ -1,5 +1,5 @@
 ### hi there, myer here👋
-i'm a 15 year old learning programmer and developer
+i'm a 16 year old learning programmer and developer
 
 i mostly code in python and javascript but have also dabbled in a bit of java
 
@@ -16,4 +16,4 @@ i mostly code in python and javascript but have also dabbled in a bit of java
 ### 📫 contact:
 `myer#0001` on Discord
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myerrr&count_private=true&theme=tokyonight&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaomyer&count_private=true&theme=tokyonight&show_icons=true)
