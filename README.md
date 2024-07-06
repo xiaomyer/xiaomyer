@@ -1,5 +1,5 @@
 ### hi there, myer here👋
-i'm a 17 year old learning programmer and developer
+i'm a 18 year old learning programmer and developer
 
 i mostly code in python and javascript but have also dabbled in a bit of java
 
