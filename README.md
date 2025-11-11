@@ -14,6 +14,6 @@ i mostly code in python and javascript but have also dabbled in a bit of java
 - [twitter](https://myer.wtf/twitter)
 
 ### 📫 contact:
-`xiaomyer` on Discord
+`myerdot` on Discord
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaomyer&count_private=true&theme=tokyonight&show_icons=true)
