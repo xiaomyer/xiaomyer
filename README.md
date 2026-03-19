@@ -16,4 +16,4 @@ i mostly code in python and javascript but have also dabbled in a bit of java
 ### 📫 contact:
 `myerdot` on Discord
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaomyer&count_private=true&theme=tokyonight&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myerdot&count_private=true&theme=tokyonight&show_icons=true)
